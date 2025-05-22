@@ -21,7 +21,7 @@ This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma
 
 <h2>Screenshots</h2>
 
-![proj11-witty-ai](https://github.com/SammyLeths/witty-ai-saas/assets/64320618/c46f4556-28bf-4b20-aaf1-51f636f1498c)
+![proj11-witty-ai](https://github.com/mlsolver/witty-ai-saas/assets/64320618/c46f4556-28bf-4b20-aaf1-51f636f1498c)
 
 <h2>Links</h2>
 
@@ -105,10 +105,7 @@ This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma
 <h2>Author's Links</h2>
 
 <ul>
-  <li>Portfolio - <a href="https://sammyleths.com" target="_blank">@SammyLeths</a></li>
-  <li>Linkedin - <a href="https://www.linkedin.com/in/eyiowuawi/" target="_blank">@SammyLeths</a></li>
-  <li>Twitter - <a href="https://twitter.com/SammyLeths" target="_blank">@SammyLeths</a></li>
-  <li>Buy me a Coffee - <a href="https://buymeacoffee.com/sammyleths" target="_blank"> @SammyLeths </a></li>
+  <li>Linkedin - <a href="https://www.linkedin.com/in/michael-landon-t0209/" target="_blank">@mlsolver</a></li>
 </ul>
 
 <br />
