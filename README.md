@@ -19,10 +19,6 @@ Witty AI Software As A Service (SAAS) is a modern responsive, simple saas platfo
 
 This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma, MySql, Axios, NPM.
 
-<h2>Screenshots</h2>
-
-![proj11-witty-ai](https://github.com/mlsolver/witty-ai-saas/assets/64320618/c46f4556-28bf-4b20-aaf1-51f636f1498c)
-
 <h2>Links</h2>
 
 <ul>
